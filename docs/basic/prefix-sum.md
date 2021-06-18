@@ -324,7 +324,8 @@ $$
 - [洛谷 U69096 前缀和的逆](https://www.luogu.com.cn/problem/U69096)
 - [AT2412 最大の和](https://vjudge.net/problem/AtCoder-joi2007ho_a#author=wuyudi)
 - [「USACO16JAN」子共七 Subsequences Summing to Sevens](https://www.luogu.com.cn/problem/P3131)
-
+- [洛谷 P1047 校门外的树](https://www.luogu.com.cn/problem/P1047)
+                            
 * * *
 
 二维/多维前缀和：
